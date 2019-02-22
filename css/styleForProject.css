@@ -1,0 +1,74 @@
+@charset "utf-8";
+#pageHeader {
+	background:#39F url(../img/bgImg.png) ;
+	color:#999;
+	
+	text-align:center;
+	font-size:2.5em;
+	font-weight:900;
+	font-family:Arial, Helvetica, sans-serif;
+	padding:40px 0px;
+	text-transform:uppercase;
+	overflow:hidden;
+}
+body
+{
+	background: url(../img/dark_embroidery.png);
+	line-height:1.618em;
+}
+
+
+#formBody {
+	padding:40px 0px 20px 0px;
+	
+	font-size:1em;
+	
+	text-transform:uppercase;
+	
+}
+#name,#usn,#section
+{
+	text-transform:uppercase;
+}
+
+label
+{
+	text-transform:uppercase;
+	color:#C33;
+}
+#sidebar
+{
+	margin:10px 0px;
+	padding:5px;
+}
+.box
+ {
+	 border-radius:5px;
+	 padding:10px;
+	 margin:10px 5px;
+	 line-height:1.618px;
+	 background:white;
+	 color:#C60;
+ }
+ 
+ p{
+	 font-size:1.5em;
+	 margin: 5px;
+	 padding:5px;
+ }
+ 
+ .teamThumb 
+ {
+	 border:thin #666;
+	 border-radius: 5px;
+	 padding:10px;
+	 margin:10px;
+ }
+ 
+ .teamThumb > .teamHead
+ {
+	 padding:5px 0px;
+	 color:white;
+	 background:#F60;
+
+ }
